@@ -1,0 +1,30 @@
+.header{
+	text-align:center;
+	font-weight:bold;
+	color:"#152238";
+}
+
+.pMain{
+font-size:20px;
+line-height: 1.6;
+font-family: Helvetica, sans-serif;
+}
+
+.pMainBold{
+	font-weight:bold;
+}
+
+.bgColor1{
+	background-color:#d8e8f7;
+}
+.bgColor2{
+	background-color:#d8e8e7;
+}
+.bgColor3{
+	background-color:#d8e8f7;
+}
+
+.pMainItalic{
+	font-style:italic;
+	text-decoration: underline;
+}
